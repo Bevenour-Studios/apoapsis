@@ -3,6 +3,7 @@ apoapsis
 
 [![Build Status](https://travis-ci.org/robotbrain/apoapsis.svg?branch=master)](https://travis-ci.org/robotbrain/apoapsis)
 
+https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
 # Sample conversation:
 -> token:wrong_token
 <- rx:err:badtoken
